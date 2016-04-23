@@ -1,0 +1,28 @@
+name: DISEASES
+favicon: null
+layout_spectrum: 0.9979771755170077
+typography_spectrum: 0.6603306492324919
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9180262945592403
+  lightness: 0.9835696786176413
+  saturation: 0.952659311471507
+  rhythmicContrast: 0.5857510350178927
+purpose: []
