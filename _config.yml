@@ -2,6 +2,7 @@ name: DISEASES
 favicon: null
 layout_spectrum: 0.9979771755170077
 typography_spectrum: 0.6603306492324919
+title: The Diseases
 cta:
   domain: null
   bucket: null
