@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: So many nasty diseases out there ... Should you really worry?
-datePublished: '2016-04-24T03:48:38.408Z'
-dateModified: '2016-04-23T13:59:42.693Z'
-title: The DISEASES .com
+datePublished: '2016-04-24T03:53:08.625Z'
+dateModified: '2016-04-24T03:52:51.708Z'
+title: 'The DISEASES '
 author: []
+sourcePath: _posts/2016-04-24-the-diseases-com.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,14 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-the-diseases-com.md
-published: true
 url: the-diseases-com/index.html
 _type: Article
 
 ---
-# The DISEASES .com
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f5a723-5428-4cbb-8e2b-196dc295ba1e.png)
+# The DISEASES ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f5a723-5428-4cbb-8e2b-196dc295ba1e.png)
 
 So many nasty **diseases** out there ... Should you really _worry_?
 
