@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: So many nasty diseases out there ... Should you really worry?
-datePublished: '2016-04-24T03:54:16.904Z'
-dateModified: '2016-04-24T03:53:16.868Z'
+datePublished: '2016-04-24T04:03:56.526Z'
+dateModified: '2016-04-24T04:03:54.561Z'
 title: 'The DISEASES '
 author: []
 sourcePath: _posts/2016-04-24-the-diseases-com.md
