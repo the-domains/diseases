@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Acquired diseases - A disease you have acquired after birth, that is not congenital. Could include most of them, from infections to organ dysfunction such as heart failure or kidney failure. Genetics may still playa role in most things, at least in susceptibility to the disease.'
-datePublished: '2016-04-24T04:03:38.907Z'
-dateModified: '2016-04-24T04:03:04.706Z'
+datePublished: '2016-04-24T04:20:47.132Z'
+dateModified: '2016-04-24T04:20:43.478Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-acquired-diseases-a-disease-you-have-acquired-after-birth.md
