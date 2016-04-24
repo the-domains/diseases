@@ -4,21 +4,21 @@
         <description><![CDATA[The Diseases]]></description>
         <link>https://thegrid.ai/diseases/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 04:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 04:04:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/diseases/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The DISEASES ]]></title>
+            <description><![CDATA[<article><h1>The DISEASES </h1><p>So many nasty diseases out there ... Should you really worry?</p></article>]]></description>
+            <link>https://thegrid.ai/diseases/the-diseases-com/index.html</link>
+            <guid isPermaLink="false">ade3809c-ebd1-4042-9f27-6445b7eab980</guid>
+            <pubDate>Sun, 24 Apr 2016 04:03:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Acquired diseases - A disease you have acquired after birth, that is not congenital. Could include most of them, from infections to organ dysfunction such as heart failure or kidney failure. Genetics may still playa role in most things, at least in susceptibility to the disease.</p>]]></description>
             <link>https://thegrid.ai/diseases/acquired-diseases-a-disease-you-have-acquired-after-birth/index.html</link>
             <guid isPermaLink="false">17f5a6f7-8a76-4eee-aa07-2c4da986684a</guid>
             <pubDate>Sun, 24 Apr 2016 04:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The DISEASES ]]></title>
-            <description><![CDATA[<article><h1>The DISEASES </h1><p>So many nasty diseases out there ... Should you really worry?</p></article>]]></description>
-            <link>https://thegrid.ai/diseases/the-diseases-com/index.html</link>
-            <guid isPermaLink="false">ade3809c-ebd1-4042-9f27-6445b7eab980</guid>
-            <pubDate>Sun, 24 Apr 2016 03:54:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
